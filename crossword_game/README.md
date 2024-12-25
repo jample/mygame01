@@ -23,7 +23,9 @@ crossword.add_word("hello", 0, 0, "horizontal")
 crossword.add_word("world", 1, 0, "vertical")
 ```
 
-### Displaying the Board
+### Displaying the Board   
+add the new contents to the file 
+
 
 ```python
 crossword.display_board()
