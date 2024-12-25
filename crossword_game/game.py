@@ -32,3 +32,5 @@ class Crossword:
     def display_board(self):
         for row in self.board:
             print(' '.join(row))
+    def display_words(self):
+        print(self.words)
