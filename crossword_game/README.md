@@ -38,3 +38,7 @@ r
 l
 d
 ```
+add a README.md file to the root of the project directory. This file should contain a brief description of the project and instructions on how to run it. You can use the following template as a starting point:
+
+```markdown
+# Project Name
