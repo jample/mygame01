@@ -1,4 +1,5 @@
 import unittest
+import os
 from crossword_game.game import Crossword
 
 class TestCrossword(unittest.TestCase):
